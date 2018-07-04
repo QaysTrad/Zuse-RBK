@@ -1,4 +1,4 @@
-[![Waffle.io - Columns and their card count](https://waffle.io/meepo-Org/Zuse-RBK)
+[![Waffle.io - Columns and their card count](https://waffle.io/meepo-Org/Greeno-RBK)
 # Greeno
 >  Greeno is a great optimal solution from two different sides:
 1- it gives you the oppurtinity to contribute with your suggestion and idea about recycling so all people can use your knowledge in a good way 
@@ -10,8 +10,15 @@
     b- The seconed one is sign up as supplier, so he can add some stuff to sell it.
   2- we have two pages Paid-products and Free-products
   3- user can add his location and his product image  
+  
+## Old Team
 
-## Team
+  - __Product Owner__: Wa'ed Alshiyyab
+  - __Scrum Master__: Hanan Nouman
+  - __Team Member__: Yussur Alani
+  - __Team Member__: Lena Salamat
+  
+## Our Team
 
   - __Product Owner__: Shatha
   - __Scrum Master__: Qays	
@@ -40,7 +47,8 @@
 - MongoDB 
 - reactJS 
 
-## Development
+## Production(heroku)
+See our website [here](https://greeno.herokuapp.com)
 
 ### Installing Dependencies
 
