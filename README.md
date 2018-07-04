@@ -66,3 +66,10 @@ in another terminal npm run react-dev
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## Legacy Project
+The idea of this project to update other groups projects, to learn how to deal with a writen code and update to it a new features.
+
+## My Position
+  *I'm was the scrum maseter in this project, give the team members tasks and I did this on waffle.
+  *Full stack: fornt-end (react, react native), back-end(NodeJs), database(MongoDB).
