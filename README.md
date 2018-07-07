@@ -1,5 +1,3 @@
-[![Waffle.io - Columns and their card count](https://waffle.io/meepo-Org/Greeno-RBK)
-
 # Greeno
 >  Greeno is a great optimal solution from two different sides:
 1- it gives you the oppurtinity to contribute with your suggestion and idea about recycling so all people can use your knowledge in a good way 
@@ -61,11 +59,6 @@ npm run react-dev
 in another terminal npm run server-dev
 in another terminal npm run react-dev 
 ```
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Legacy Project
 The idea of this project to update other groups projects, to learn how to deal with a writen code and update to it a new features.
