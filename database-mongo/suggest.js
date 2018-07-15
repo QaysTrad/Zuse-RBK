@@ -1,14 +1,12 @@
-var mongoose = require('mongoose');
-var db = require('./config');
+var mongoose = require('mongoose')
 
 var suggest = mongoose.Schema({
-	name: { type : String, required : true },
-	type: { type : String, required : true },
-	content: { type : String, required : true },
-	count:{ type : Number, required : true }
-});
+    name: { type: String, required: true },
+    type: { type: String, required: true },
+    content: { type: String, required: true },
+    count: { type: Number, required: true }
+})
 
-var Suggest = mongoose.model('Suggest', suggest);
+var Suggest = mongoose.model('Suggest', suggest)
 
-module.exports = Suggest;
-
+module.exports = Suggest
